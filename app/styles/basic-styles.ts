@@ -11,3 +11,8 @@ export const ListItem = styled.li`
     margin: 1rem;
     list-style: none;
 `
+
+export const Jumbotron = styled.div`
+    width: 5rem;
+    border: 2px solid black;
+`
