@@ -1,3 +1,4 @@
+"use client"
 import styled from "styled-components"
 
 
@@ -13,6 +14,7 @@ export const ListItem = styled.li`
 `
 
 export const Jumbotron = styled.div`
-    width: 5rem;
+    width: 100%;
+    height: 50%;
     border: 2px solid black;
 `
